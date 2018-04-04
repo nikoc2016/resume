@@ -90,15 +90,15 @@
 
 ---
 ### 其他项目
-####Android\安卓:
-三子棋小游戏
-三门问题小游戏
-街头生存模拟[开发中]
-...
-####Java\C#:
-Unity小游戏
-MD5生成器
-Adobe Animate
+<strong>Android\安卓:</strong></br>
+三子棋小游戏</br>
+三门问题小游戏</br>
+街头生存模拟[开发中]</br>
+...</br>
+<strong>Java\C#:</strong></br>
+Unity小游戏</br>
+MD5生成器</br>
+Adobe Animate</br>
 ...
 
 ---
