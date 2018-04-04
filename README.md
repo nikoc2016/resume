@@ -31,8 +31,8 @@
 ---
 ### Food Indicator 项目 : 2人小队
 这是一个基于Django的webapp, 通过twitter API 来分析统计每个州最受欢迎的食物。我负责了前端和后台开发。开发此项目之前，我只用过python做一个小型p2p聊天软件。学习和使用python的库成为了我最大的困难，因为有C++，Java的基础，我在一个月内完成了前后端的开发。
-[预览版](http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/)
 <img src="./foodApp.png" style="width:100%;height:auto" align=center/>
+<a href="http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/" align=center>点此打开预览版</a>
 
 
 关键词: django, python, html, css, js
@@ -40,7 +40,10 @@
 ---
 ### PocketLogic 项目 ：4人小队
 这是一个基于安卓平台的手机游戏，通过放置逻辑门(AND,OR,XOR..)来输出一个指定的结果以完成游戏。我负责游戏逻辑设计和画面渲染两个部分。在此之前我从未接触过手机软件开发，需要从零开始学习安卓开发。该项目遵从Agile Style, 目前正在开发。
-<img src="./pocketlogic.png" style="width:50%;height:auto" align=center/>
+<br>
+<div align="center">
+  <img src="./pocketlogic.png" style="width:50%;height:auto" align="center"/>
+</div>
 
 关键词: android, java, canvas
 
