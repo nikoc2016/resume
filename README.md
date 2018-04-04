@@ -58,11 +58,13 @@
 <div align="center">
  <img src="./home.png" style="width:100%;height:auto" align="center"/><br>
 </div>
+
 - [U-Ride 拼车软件](https://nikoc2016.github.io/U-Ride%20Online/)<br>
 上E-Commerce(网络贸易)课时要求做一个项目原型，我设计了一款手机拼车APP。
 <div align="center">
- <img src="./uRide.png" style="width:50%;height:auto" align="center"/><br>
+ <img src="./uRide.png" style="width:20%;height:auto" align="center"/><br>
 </div>
+
 - [游戏登录器](https://nikoc2016.github.io/LoginPanel/login.html)<br>
 为[酷派天空]（https://www.kupai.me/）旗下的GTA5私服开发的游戏内登录器。
 <div align="center">
