@@ -26,7 +26,7 @@
 
 # 学习经历
 
-##美国加州州立大学 CSU Channel Islands (2017-2018)
+## 美国加州州立大学 CSU Channel Islands (2017-2018)
 ---
 ### Food Indicator 项目 : 2人小队
 这是一个基于Django的webapp, 通过twitter API 来分析统计每个州最受欢迎的食物。我负责了前端和后台开发。开发此项目之前，我只用过python做一个小型p2p聊天软件。学习和使用python的库成为了我最大的困难，因为有C++，Java的基础，我在一个月内完成了前后端的开发。
@@ -42,12 +42,12 @@
 ---
 ### HTML5 项目 : 单人项目
 
-#####个人主页
+##### 个人主页
 我在三个月内通过上课和自学HTML完成了个人主页的开发，其中包含用JS实现黑客帝国矩阵雨特效。
-#####拼车软件:
+##### 拼车软件:
 我为E-Commerce项目开发了一个响应式HTML5应用: 一个手机端的拼车APP。
 该App使用了Google Map的API。
-#####登录器:
+##### 登录器:
 为酷派天空的GTA5私服开发了一个基于HTML5的游戏内登录器。
 
 关键词: html5, css, javascript, jquery, bootstrap
