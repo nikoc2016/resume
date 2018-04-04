@@ -31,6 +31,7 @@
 ---
 ### Food Indicator 项目
 ##### 小队人数:2人
+##### 语言: Python, HTML
 这是一个基于Django的webapp, 它通过twitter API 来计算每个州最受欢迎的食物。我负责前端和后端开发。在开发此项目之前，我只用过python做一个小型p2p聊天软件。开发过程中，我最大的困难是有效使用python的自带库。我利用C++和JAVA的基础，自学Python3并在一个月内完成了服务器端开发。
 <div align="center">
  <img src="./foodApp.png" style="width:100%;height:auto" align="center"/><br>
@@ -42,6 +43,7 @@
 ---
 ### PocketLogic 项目
 ##### 小队人数:4人
+##### 语言: Java
 这是一个安卓上的手机游戏，通过放置逻辑门(AND,OR,XOR..)来产生一个指定的结果以完成游戏。我负责游戏逻辑和画面渲染两个部分。小队遵循Agile协议，采用推进式开发模型。我采用了安卓CANVAS来实现画面渲染，并开发出API接口给队员使用。目前项目还在继续开发中。
 <div align="center">
  <img src="./pocketlogic.png" style="width:50%;height:auto" align="center"/><br>
@@ -79,8 +81,9 @@
 ---
 ## 加州圣何塞 De Anza 大学 (2014-2016)
 
-### Prison Database
+### Prisonbreak 项目
 ##### 小队人数:2人
+##### 语言: C++
 大二时因为钟爱于监狱模拟类游戏，我带领着5人小队开发了一个基于C++的囚犯索引程序。该C++程序通过实现Hash table, Linklist 等数据结构和使用优化算法来达到一个可以快速存取囚犯即时数据的效果。
 
 初提出该方案的时候，导师认为我不可能在一个月内竣工并极力反对，我说服导师后并召集了队友并组成了五人小队。
