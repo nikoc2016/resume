@@ -43,11 +43,14 @@
 ---
 ### HTML5个人主页
 我在三个月内通过上课和自学HTML完成了个人主页的开发，其中包含用JS实现黑客帝国矩阵雨特效。
+[链接](https://nikoc2016.github.io/Project3/index.html)
 ### HTML5拼车软件:
 我为E-Commerce项目开发了一个响应式HTML5应用: 一个手机端的拼车APP。
 该App使用了Google Map的API。
+[链接](https://nikoc2016.github.io/U-Ride%20Online/) 需要GOOGLE服务
 ### HTML5登录器:
 为酷派天空的GTA5私服开发了一个基于HTML5的游戏内登录器。
+[链接](https://nikoc2016.github.io/LoginPanel/login.html)
 
 关键词: html5, css, javascript, jquery, bootstrap
 
