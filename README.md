@@ -33,7 +33,7 @@
 这是一个基于Django的webapp, 通过twitter API 来分析统计每个州最受欢迎的食物。我负责了前端和后台开发。开发此项目之前，我只用过python做一个小型p2p聊天软件。学习和使用python的库成为了我最大的困难，因为有C++，Java的基础，我在一个月内完成了前后端的开发。
 <div align="center">
  <img src="./foodApp.png" style="width:100%;height:auto" align="center"/><br>
- <a href="http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/" align="center">点此打开预览版</a>
+ <a href="http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/" align="center">点此打开前端预览版</a>
 </div>
 <br>
 关键词: django, python, html, css, js
@@ -55,13 +55,19 @@
 ---
 - [个人主页](https://nikoc2016.github.io/Project3/index.html)<br>
 从入门到制作出该个人主页，我花了三个月的时间上课和自学。主页里有canvas编程动画，贪吃蛇小游戏，以及发光的CSS。
-<img src="./home.png" style="width:100%;height:auto" align=center/>
+<div align="center">
+ <img src="./home.png" style="width:100%;height:auto" align="center"/><br>
+</div>
 - [U-Ride 拼车软件](https://nikoc2016.github.io/U-Ride%20Online/)<br>
 上E-Commerce(网络贸易)课时要求做一个项目原型，我设计了一款手机拼车APP。
-<img src="./uRide.png" style="width:50%;height:auto" align=center/>
+<div align="center">
+ <img src="./uRide.png" style="width:50%;height:auto" align="center"/><br>
+</div>
 - [游戏登录器](https://nikoc2016.github.io/LoginPanel/login.html)<br>
 为[酷派天空]（https://www.kupai.me/）旗下的GTA5私服开发的游戏内登录器。
-<img src="./login.png" style="width:100%;height:auto" align=center/>
+<div align="center">
+ <img src="./login.png" style="width:50%;height:auto" align="center"/><br>
+</div>
 ---
 关键词: html5, css, javascript, jquery, bootstrap
 
