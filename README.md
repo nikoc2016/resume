@@ -109,7 +109,7 @@ Adobe Animate</br>
 ---
 # 项目和作品链接
 
-*部分链接需要Google支持，大陆地区无法正常访问
+*部分链接需要Google支持，大陆地区无法正常访问<br>
 *网页如果渲染不正常，请使用电脑Chrome浏览器打开
 
 - [U-Ride 拼车App](https://nikoc2016.github.io/U-Ride%20Online/)：一个HTML5 Webapp. (需要VPN)
