@@ -1,5 +1,6 @@
 # 联系方式
 
+- 本简历电子版: https://github.com/nikoc2016/resume
 - 手机：18576216223, +1 (408) 656 1558
 - Email：chenglin.lu217@myci.csuci.edu, nikoc2016@163.com
 - 微信号：nikoc_lin
