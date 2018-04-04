@@ -51,9 +51,7 @@
 关键词: android, java, canvas
 
 ---
-### HTML5作品
-##### *请使用电脑打开链接,手机端无法渲染HTML视频和JS特效
-##### *拼车软件需要Google地图支持，大陆地区无法正常访问
+## HTML5作品
 ---
 ### 个人主页
 从入门到制作出该个人主页，我花了三个月的时间上课和自学。主页里有canvas编程动画，贪吃蛇小游戏，以及发光的CSS。
@@ -97,6 +95,7 @@
 # 项目和作品链接
 
 *部分链接需要Google支持，大陆地区无法正常访问
+*网页如果渲染不正常，请使用电脑Chrome浏览器打开
 
 - [U-Ride 拼车App](https://nikoc2016.github.io/U-Ride%20Online/)：一个HTML5 Webapp. (需要VPN)
 - [个人主页](https://nikoc2016.github.io/Project3/index.html)：一个HTML5主页，里面包含JS开发的矩阵雨特效和贪吃蛇游戏(需要Chrome).
