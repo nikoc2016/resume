@@ -87,7 +87,7 @@
 
 ---
 ### 其他项目
-基于python的p2p聊天程序。
+基于python的p2p聊天程序。<br>
 基于unix的bash programs。
 ...
 
