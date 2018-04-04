@@ -42,6 +42,8 @@
 关键词: android, java, canvas
 
 ---
+*请使用电脑打开链接,手机端可能会显示不正常
+
 ### HTML5个人主页([点此进入](https://nikoc2016.github.io/Project3/index.html))
 我在三个月内通过上课和自学HTML完成了个人主页的开发，其中包含用JS实现黑客帝国矩阵雨特效。
 ### HTML5拼车软件([点此进入](https://nikoc2016.github.io/U-Ride%20Online/)大陆需要VPN)
