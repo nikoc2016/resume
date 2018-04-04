@@ -76,7 +76,7 @@
 - [个人主页](https://nikoc2016.github.io/Project3/index.html)：一个HTML5主页，里面包含JS开发的矩阵雨特效和贪吃蛇游戏(需要Chrome).
 - [游戏内登录窗口](https://nikoc2016.github.io/LoginPanel/login.html)：一个GTA5私服游戏内登录器
 
-#语言
+# 语言
 本人均能流利听说读写以及翻译以下三门语言
  - 普通话(国语)
  - 广东话(粤语)
