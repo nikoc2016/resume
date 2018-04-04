@@ -42,11 +42,12 @@
 关键词: android, java, canvas
 
 ---
-*请使用电脑打开链接,手机端可能会显示不正常
+*请使用电脑打开链接,手机端无法渲染HTML视频和JS特效
+*拼车软件需要Google地图支持，大陆地区无法正常访问
 
 ### HTML5个人主页([点此进入](https://nikoc2016.github.io/Project3/index.html))
 我在三个月内通过上课和自学HTML完成了个人主页的开发，其中包含用JS实现黑客帝国矩阵雨特效。
-### HTML5拼车软件([点此进入](https://nikoc2016.github.io/U-Ride%20Online/)大陆需要VPN)
+### HTML5拼车软件([点此进入](https://nikoc2016.github.io/U-Ride%20Online/))
 我为E-Commerce项目开发了一个响应式HTML5应用: 一个手机端的拼车APP。
 该App使用了Google Map的API。
 ### HTML5登录器([点此进入](https://nikoc2016.github.io/LoginPanel/login.html))
@@ -74,7 +75,7 @@
 ---
 # 项目和作品链接
 
-*部分网页和链接需要Google服务才能正常访问，大陆地区需要VPN才能正常浏览
+*部分链接需要Google支持，大陆地区无法正常访问
 
 - [U-Ride 拼车App](https://nikoc2016.github.io/U-Ride%20Online/)：一个HTML5 Webapp. (需要VPN)
 - [个人主页](https://nikoc2016.github.io/Project3/index.html)：一个HTML5主页，里面包含JS开发的矩阵雨特效和贪吃蛇游戏(需要Chrome).
