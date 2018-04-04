@@ -73,7 +73,7 @@
 
 *部分网页和链接需要Google服务才能正常访问，大陆地区需要VPN才能正常浏览
 
-- [U-Ride 拼车App](https://nikoc2016.github.io/U-Ride%20Online/)：一个HTML5 Webapp.
+- [U-Ride 拼车App](https://nikoc2016.github.io/U-Ride%20Online/)：一个HTML5 Webapp. (需要VPN)
 - [个人主页](https://nikoc2016.github.io/Project3/index.html)：一个HTML5主页，里面包含JS开发的矩阵雨特效和贪吃蛇游戏(需要Chrome).
 - [游戏内登录窗口](https://nikoc2016.github.io/LoginPanel/login.html)：一个GTA5私服游戏内登录器
 - [Django Webapp](https://github.com/nikoc2016/foodApp-2017)：一个Python Webapp进行数据分析和预测
