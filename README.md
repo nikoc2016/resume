@@ -87,8 +87,15 @@
 
 ---
 ### 其他项目
-基于python的p2p聊天程序。<br>
-基于unix的bash programs。
+####Android\安卓:
+三子棋小游戏
+三门问题小游戏
+街头生存模拟[开发中]
+...
+####Java\C#:
+Unity小游戏
+MD5生成器
+Adobe Animate
 ...
 
 ---
