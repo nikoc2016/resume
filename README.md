@@ -66,7 +66,7 @@
 </div>
 
 ### 游戏登录器
-为[酷派天空]（https://www.kupai.me/）旗下的GTA5私服开发的游戏内登录器。
+为 [酷派天空](https://www.kupai.me/) 旗下的GTA5私服开发的游戏内登录器。
 <div align="center">
  <img src="./login.png" style="width:50%;height:auto" align="center"/>
 </div>
