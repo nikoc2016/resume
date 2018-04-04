@@ -31,8 +31,11 @@
 ---
 ### Food Indicator 项目 : 2人小队
 这是一个基于Django的webapp, 通过twitter API 来分析统计每个州最受欢迎的食物。我负责了前端和后台开发。开发此项目之前，我只用过python做一个小型p2p聊天软件。学习和使用python的库成为了我最大的困难，因为有C++，Java的基础，我在一个月内完成了前后端的开发。
-<img src="./foodApp.png" style="width:100%;height:auto" />
-[预览版](http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/)
+<div  align="center">    
+ <img src="./foodApp.png" style="width:100%;height:auto" />
+ [预览版](http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/)
+</div>
+
 
 关键词: django, python, html, css, js
 
