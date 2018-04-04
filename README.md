@@ -29,7 +29,8 @@
 
 ## 美国加州州立大学 CSU Channel Islands (2017-2018)
 ---
-### Food Indicator 项目 : 2人小队
+### Food Indicator 项目
+##### 小队人数:2人
 这是一个基于Django的webapp, 通过twitter API 来分析统计每个州最受欢迎的食物。我负责了前端和后台开发。开发此项目之前，我只用过python做一个小型p2p聊天软件。学习和使用python的库成为了我最大的困难，因为有C++，Java的基础，我在一个月内完成了前后端的开发。
 <div align="center">
  <img src="./foodApp.png" style="width:100%;height:auto" align="center"/><br>
@@ -39,7 +40,8 @@
 关键词: django, python, html, css, js
 
 ---
-### PocketLogic 项目 ：4人小队
+### PocketLogic 项目
+##### 小队人数:4人
 这是一个基于安卓平台的手机游戏，通过放置逻辑门(AND,OR,XOR..)来输出一个指定的结果以完成游戏。我负责游戏逻辑设计和画面渲染两个部分。在此之前我从未接触过手机软件开发，需要从零开始学习安卓开发。该项目遵从Agile Style, 目前正在开发。
 <div align="center">
  <img src="./pocketlogic.png" style="width:50%;height:auto" align="center"/><br>
@@ -70,14 +72,14 @@
 <div align="center">
  <img src="./login.png" style="width:50%;height:auto" align="center"/>
 </div>
----
+
 关键词: html5, css, javascript, jquery, bootstrap
 
 ---
 ## 加州圣何塞 De Anza 大学 (2014-2016)
 
-### Prison Database 项目 : 5人小队
-
+### Prison Database
+##### 小队人数:2人
 因为钟爱于监狱模拟类游戏，我带领着5人小队开发了一个基于C++的囚犯索引程序。该C++程序作为监狱模拟游戏的内核，通过开发Hash table, Linklist 数据结构和使用优化算法来实现一个可以快速储存和索引囚犯数据的架构。
 
 初提出该方案的时候，导师认为我不可能在一个月内竣工并极力反对，我说服导师后并召集了队友并组成了五人小队。
