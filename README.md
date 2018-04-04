@@ -41,10 +41,10 @@
 ---
 ### PocketLogic 项目 ：4人小队
 这是一个基于安卓平台的手机游戏，通过放置逻辑门(AND,OR,XOR..)来输出一个指定的结果以完成游戏。我负责游戏逻辑设计和画面渲染两个部分。在此之前我从未接触过手机软件开发，需要从零开始学习安卓开发。该项目遵从Agile Style, 目前正在开发。
-<br>
 <div align="center">
-  <img src="./pocketlogic.png" style="width:50%;height:auto" align="center"/>
+ <img src="./pocketlogic.png" style="width:50%;height:auto" align="center"/><br>
 </div>
+<br>
 
 关键词: android, java, canvas
 
