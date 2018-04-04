@@ -46,12 +46,12 @@
 ##### *请使用电脑打开链接,手机端无法渲染HTML视频和JS特效
 ##### *拼车软件需要Google地图支持，大陆地区无法正常访问
 ---
-- [个人主页](https://nikoc2016.github.io/Project3/index.html):
+- [个人主页](https://nikoc2016.github.io/Project3/index.html)<br>
 我在三个月内通过上课和自学HTML完成了个人主页的开发，其中包含用JS实现黑客帝国矩阵雨特效。
-- [U-Ride 拼车软件](https://nikoc2016.github.io/U-Ride%20Online/):
+- [U-Ride 拼车软件](https://nikoc2016.github.io/U-Ride%20Online/)<br>
 我为E-Commerce项目开发了一个响应式HTML5应用: 一个手机端的拼车APP。
 该App使用了Google Map的API。
-- [游戏登录器](https://nikoc2016.github.io/LoginPanel/login.html):
+- [游戏登录器](https://nikoc2016.github.io/LoginPanel/login.html)<br>
 为酷派天空的GTA5私服开发了一个基于HTML5的游戏内登录器。
 ---
 关键词: html5, css, javascript, jquery, bootstrap
