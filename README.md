@@ -32,12 +32,15 @@
 ### Food Indicator 项目 : 2人小队
 这是一个基于Django的webapp, 通过twitter API 来分析统计每个州最受欢迎的食物。我负责了前端和后台开发。开发此项目之前，我只用过python做一个小型p2p聊天软件。学习和使用python的库成为了我最大的困难，因为有C++，Java的基础，我在一个月内完成了前后端的开发。
 [预览版](http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/)
+<img src="./foodApp.png" style="width:100%;height:auto" align=center/>
+
 
 关键词: django, python, html, css, js
 
 ---
 ### PocketLogic 项目 ：4人小队
-这是一个基于安卓平台的手机游戏，通过放置逻辑门(AND,OR,XOR..)来输出一个指定的结果以完成游戏。我负责游戏逻辑设计和画面渲染两个部分。在此之前我从未接触过手机软件开发，我从零开始学习安卓开发并依靠我的Java编程基础以及快速学习技巧在三个月内完成了开发。
+这是一个基于安卓平台的手机游戏，通过放置逻辑门(AND,OR,XOR..)来输出一个指定的结果以完成游戏。我负责游戏逻辑设计和画面渲染两个部分。在此之前我从未接触过手机软件开发，需要从零开始学习安卓开发。该项目遵从Agile Style, 目前正在开发。
+<img src="./pocketlogic.png" style="width:50%;height:auto" align=center/>
 
 关键词: android, java, canvas
 
@@ -48,10 +51,13 @@
 ---
 - [个人主页](https://nikoc2016.github.io/Project3/index.html)<br>
 从入门到制作出该个人主页，我花了三个月的时间上课和自学。主页里有canvas编程动画，贪吃蛇小游戏，以及发光的CSS。
+<img src="./home.png" style="width:100%;height:auto" align=center/>
 - [U-Ride 拼车软件](https://nikoc2016.github.io/U-Ride%20Online/)<br>
 上E-Commerce(网络贸易)课时要求做一个项目原型，我设计了一款手机拼车APP。
+<img src="./uRide.png" style="width:50%;height:auto" align=center/>
 - [游戏登录器](https://nikoc2016.github.io/LoginPanel/login.html)<br>
 为[酷派天空]（https://www.kupai.me/）旗下的GTA5私服开发的游戏内登录器。
+<img src="./login.png" style="width:100%;height:auto" align=center/>
 ---
 关键词: html5, css, javascript, jquery, bootstrap
 
@@ -65,6 +71,7 @@
 初提出该方案的时候，导师认为我不可能在一个月内竣工并极力反对，我说服导师后并召集了队友并组成了五人小队。
 
 设计架构和安排分工成为了我初期的最大困难，后期作为队内编程能力较强的人，我负责快速阅读队员写好的代码并且找出漏洞然后提供解决方案。由于我的Debug时间平均只占队友Debug时间的10%，我们小队最终在一个月内高效完成了项目并在学期结束时获得了CS部门的称赞。
+[源码](https://github.com/nikoc2016/prisionBreakEngine)
 
 ---
 ### 其他项目
@@ -86,6 +93,7 @@
 - [Django Webapp](https://github.com/nikoc2016/foodApp-2017)：一个Python网络应用分析Twitter关键词进行数据处理。
 - [Monty Hall](https://github.com/nikoc2016/MontyHall)：一个安卓小游戏，三门问题。
 - [Tripple C](https://github.com/nikoc2016/Tripple-C)：一个安卓三子棋带AI游戏。
+- [Prsionbreak C++](https://github.com/nikoc2016/prisionBreakEngine)：C++写的监狱模拟器的囚犯数据存取内核。
 
 ---
 # 语言
