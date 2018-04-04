@@ -72,7 +72,7 @@
 设计架构和安排分工成为了我初期的最大困难，后期作为队内编程能力较强的人，我负责快速阅读队员写好的代码并且找出漏洞然后提供解决方案。由于我的Debug时间平均只占队友Debug时间的10%，我们小队最终在一个月内高效完成了项目并在学期结束时获得了CS部门的称赞。
 
 ---
-# 项目和作品
+# 项目和作品链接
 
 - [U-Ride 拼车App](https://nikoc2016.github.io/U-Ride%20Online/)：一个HTML5 Webapp.
 - [个人主页](https://nikoc2016.github.io/Project3/index.html)：一个HTML5主页，里面包含JS开发的矩阵雨特效和贪吃蛇游戏(需要Chrome).
@@ -81,8 +81,8 @@
 - [Unity 小游戏](https://github.com/nikoc2016/foodApp-2017)：感恩节开发的一个控制小飞碟的Unity小游戏
 - [helloPHP](https://github.com/nikoc2016/PHPchatroom)：一个PHP的小聊天室
 - [Django Webapp](https://github.com/nikoc2016/foodApp-2017)：一个Python网络应用分析Twitter关键词进行数据处理。
-- [Monty Hall](https://github.com/nikoc2016/foodApp-2017)：一个安卓小游戏，三门问题。
-- [Tripple C](https://github.com/nikoc2016/foodApp-2017)：一个安卓三子棋带AI游戏。
+- [Monty Hall](https://github.com/nikoc2016/MontyHall)：一个安卓小游戏，三门问题。
+- [Tripple C](https://github.com/nikoc2016/Tripple-C)：一个安卓三子棋带AI游戏。
 
 ---
 # 语言
