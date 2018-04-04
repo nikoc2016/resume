@@ -53,19 +53,19 @@
 ##### *请使用电脑打开链接,手机端无法渲染HTML视频和JS特效
 ##### *拼车软件需要Google地图支持，大陆地区无法正常访问
 ---
-##### 个人主页
+### 个人主页
 从入门到制作出该个人主页，我花了三个月的时间上课和自学。主页里有canvas编程动画，贪吃蛇小游戏，以及发光的CSS。
 <div align="center">
  <img src="./home.png" style="width:100%;height:auto" align="center"/>
 </div>
 
-##### U-Ride 拼车软件
+### U-Ride 拼车软件
 上E-Commerce(网络贸易)课时要求做一个项目原型，我设计了一款手机拼车APP。
 <div align="center">
  <img src="./uRide.png" style="width:auto;height:50%" align="center"/>
 </div>
 
-##### 游戏登录器
+### 游戏登录器
 为[酷派天空]（https://www.kupai.me/）旗下的GTA5私服开发的游戏内登录器。
 <div align="center">
  <img src="./login.png" style="width:50%;height:auto" align="center"/>
