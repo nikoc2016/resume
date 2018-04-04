@@ -31,7 +31,7 @@
 ---
 ### Food Indicator 项目
 ##### 小队人数:2人
-这是一个基于Django的webapp, 通过twitter API 来分析统计每个州最受欢迎的食物。我负责了前端和后台开发。开发此项目之前，我只用过python做一个小型p2p聊天软件。学习和使用python的库成为了我最大的困难，因为有C++，Java的基础，我在一个月内完成了前后端的开发。
+这是一个基于Django的webapp, 它通过twitter API 来计算每个州最受欢迎的食物。我负责前端和后端开发。在开发此项目之前，我只用过python做一个小型p2p聊天软件。开发过程中，我最大的困难是有效使用python的自带库。我利用C++和JAVA的基础，自学Python3并在一个月内完成了服务器端开发。
 <div align="center">
  <img src="./foodApp.png" style="width:100%;height:auto" align="center"/><br>
  <a href="http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/" align="center">点此打开前端预览版</a>
@@ -42,7 +42,7 @@
 ---
 ### PocketLogic 项目
 ##### 小队人数:4人
-这是一个基于安卓平台的手机游戏，通过放置逻辑门(AND,OR,XOR..)来输出一个指定的结果以完成游戏。我负责游戏逻辑设计和画面渲染两个部分。在此之前我从未接触过手机软件开发，需要从零开始学习安卓开发。该项目遵从Agile Style, 目前正在开发。
+这是一个安卓上的手机游戏，通过放置逻辑门(AND,OR,XOR..)来产生一个指定的结果以完成游戏。我负责游戏逻辑和画面渲染两个部分。小队遵循Agile协议，采用推进式开发模型。我采用了安卓CANVAS来实现画面渲染，并开发出API接口给队员使用。目前项目还在继续开发中。
 <div align="center">
  <img src="./pocketlogic.png" style="width:50%;height:auto" align="center"/><br>
 </div>
@@ -54,14 +54,14 @@
 ## HTML5作品
 ---
 ### 个人主页
-从入门到制作出该个人主页，我花了三个月的时间上课和自学。主页里有canvas编程动画，贪吃蛇小游戏，以及发光的CSS。
+我花了三个月的时间上课和自学HTML并制作了个人主页。这包括研究学习HTML Canvas来开发矩阵雨特效，挑战不参考文献开发贪吃蛇小游戏，以及调整发光的霓虹CSS。
 <div align="center">
  <img src="./home.png" style="width:100%;height:auto" align="center"/>
 </div>
 
 ---
 ### U-Ride 拼车软件
-上E-Commerce(网络贸易)课时要求做一个项目原型，我设计了一款手机拼车APP。
+上E-Commerce(网络贸易)课时要求做一个项目原型，我设计了一款手机拼车APP，这个APP采用了谷歌地图的API来显示路径和计算路程。
 <div align="center">
  <img src="./uRide.png" style="width:auto;height:50%" align="center"/>
 </div>
@@ -81,12 +81,14 @@
 
 ### Prison Database
 ##### 小队人数:2人
-因为钟爱于监狱模拟类游戏，我带领着5人小队开发了一个基于C++的囚犯索引程序。该C++程序作为监狱模拟游戏的内核，通过开发Hash table, Linklist 数据结构和使用优化算法来实现一个可以快速储存和索引囚犯数据的架构。
+大二时因为钟爱于监狱模拟类游戏，我带领着5人小队开发了一个基于C++的囚犯索引程序。该C++程序通过实现Hash table, Linklist 等数据结构和使用优化算法来达到一个可以快速存取囚犯即时数据的效果。
 
 初提出该方案的时候，导师认为我不可能在一个月内竣工并极力反对，我说服导师后并召集了队友并组成了五人小队。
 
-设计架构和安排分工成为了我初期的最大困难，后期作为队内编程能力较强的人，我负责快速阅读队员写好的代码并且找出漏洞然后提供解决方案。由于我的Debug时间平均只占队友Debug时间的10%，我们小队最终在一个月内高效完成了项目并在学期结束时获得了CS部门的称赞。
-[源码](https://github.com/nikoc2016/prisionBreakEngine)
+设计软件架构和安排队员分工成为了我初期的最大困难，开发中我的小队成员们遇到了很多BUG和架构缺陷，我利用自身反应速度上的优势快速修补和制定新解决方案。由于我的Debug时间平均只占队友Debug时间的10%，我们小队最终在一个月内齐心协力完成了项目并在学期结束时获得了CS部门的称赞。
+<div align="center">
+ <a href="https://github.com/nikoc2016/prisionBreakEngine">点此查看源码</a>
+</div>
 
 ---
 ### 其他项目
