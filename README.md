@@ -35,8 +35,7 @@
  <img src="./foodApp.png" style="width:100%;height:auto" align="center"/><br>
  <a href="http://student.csuci.edu/~chenglin.lu217/WebIntel/prototype/" align="center">点此打开预览版</a>
 </div>
-
-
+<br>
 关键词: django, python, html, css, js
 
 ---
