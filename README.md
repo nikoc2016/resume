@@ -117,6 +117,7 @@ Adobe Animate</br>
 
 - [U-Ride 拼车App](https://nikoc2016.github.io/U-Ride%20Online/)：一个HTML5 Webapp. (需要VPN)
 - [个人主页](https://nikoc2016.github.io/Project3/index.html)：一个HTML5主页，里面包含JS开发的矩阵雨特效和贪吃蛇游戏(需要Chrome).
+- [口算训练](https://nikoc2016.github.io/CalcPractice/CalcPractice.html)：一个HTML5应用，可用于训练口算技能(需要Chrome).
 - [游戏内登录窗口](https://nikoc2016.github.io/LoginPanel/login.html)：一个GTA5私服游戏内登录器
 - [Django Webapp](https://github.com/nikoc2016/foodApp-2017)：一个Python Webapp进行数据分析和预测
 - [Unity 小游戏](https://github.com/nikoc2016/foodApp-2017)：感恩节开发的一个控制小飞碟的Unity小游戏
